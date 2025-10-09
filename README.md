@@ -1,5 +1,5 @@
-[![CodeRabbit](./coderabbit.jpg)](https://www.coderabbit.ai)
-Thank you [CodeRabbit](https://www.coderabbit.ai) for sponsoring this repository! 🙏
+[![CodeRabbit](./coderabbit.jpg)](https://www.coderabbit.ai/?ref=app-ideas)
+Thank you [CodeRabbit](https://www.coderabbit.ai/?ref=app-ideas) for sponsoring this repository! 🙏
 
 # :ledger: App Ideas Collection
 
