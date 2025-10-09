@@ -1,6 +1,5 @@
-## 👇 **Practice Daily on iCodeThis.com** 👇
-
-[![iCodeThis](https://www.icodethis.com/banner.jpg)](https://iCodeThis.com/?ref=app-ideas)
+[![CodeRabbit](./coderabbit.jpg)](https://www.coderabbit.ai)
+Thank you [CodeRabbit](https://www.coderabbit.ai) for sponsoring this repository! 🙏
 
 # :ledger: App Ideas Collection
 
